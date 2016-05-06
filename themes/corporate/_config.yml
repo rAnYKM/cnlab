@@ -1,0 +1,48 @@
+# Header Menu
+menu:
+  Home: /
+  News: /projects/
+  Research: /archives/ # can set archive-dir in root config to custom value
+  People: /contact/
+  Events: /about/
+  Publications: /public/
+   
+rss:
+
+# Content
+excerpt_link: Read More
+fancybox: true # whether or not to load the fancybox library
+
+# Integrations
+disqus_shortname: 
+google_analytics:
+swiftype_install_key: 
+
+# Social
+social:
+  github:
+  twitter: 
+  facebook:
+  rss: 
+  linkedin: 
+  stackoverflow:
+
+# Miscellaneous
+color_scheme: green   # options: blue, gray, green, orange, red, turquoise
+favicon: /favicon.ico # path from root of hexo site
+twitter_widget_id: "678830341331820544" # as a string, from https://twitter.com/settings/widgets
+twitter_username: computerlab_ # twitter username without the @
+default_author: Anonymous
+
+about: Our group is active in the area of Computer Communications Networking, with special interests in network protocol and architecture design supporting emerging multimedia traffic over wired/wireless, mobile, ad hoc, and sensor networks.
+phone: 
+email: 
+address_1: Dept. of Electrical & Computer Engineering 
+address_2: University of Victoria
+address_3: Victoria, BC, Canada V8W 3P6
+skype:
+lat: 40.715911 
+long: -73.962147
+
+
+

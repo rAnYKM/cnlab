@@ -1,0 +1,43 @@
+  <!-- BEGIN PRE-FOOTER -->
+    <div class="pre-footer">
+      <div class="container">
+        <div class="row">
+          <!-- BEGIN BOTTOM ABOUT BLOCK -->
+          <div class="col-md-6 col-sm-6 pre-footer-col">
+            <h2>About Us</h2>
+            <p><%- theme.about %></p>
+          </div>
+          <!-- END BOTTOM ABOUT BLOCK -->
+
+          <!-- BEGIN BOTTOM CONTACTS -->
+          <div class="col-md-6 col-sm-6 pre-footer-col" align="right">
+            <h2>Address</h2>
+            <address class="margin-bottom-40">
+              <%= theme.address_1 %><br>
+              <%= theme.address_2 %><br>
+              <%= theme.address_3 %><br>
+            </address>
+          </div>
+          <!-- END BOTTOM CONTACTS -->
+
+	<% if (theme.twitter_widget_id){ %>
+
+	<% } %>
+        </div>
+      </div>
+    </div>
+    <!-- END PRE-FOOTER -->
+
+    <!-- BEGIN FOOTER -->
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+          <!-- BEGIN COPYRIGHT -->
+          <div class="col-md-6 col-sm-6 padding-top-10">
+                  &copy; <%= date(new Date(), 'YYYY') %> <%= config.title %><br>
+          </div>
+          <!-- END COPYRIGHT -->
+        </div>
+      </div>
+    </div>
+    <!-- END FOOTER -->
