@@ -1,10 +1,10 @@
 # Header Menu
 menu:
   Home: /
-  News: /projects/
-  Research: /archives/ # can set archive-dir in root config to custom value
-  People: /contact/
-  Events: /about/
+  News: /archives/
+  Research: /projects/ # can set archive-dir in root config to custom value
+  People: /about/
+  Events: /event/
   Publications: /public/
    
 rss:

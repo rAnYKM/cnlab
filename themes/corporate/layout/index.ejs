@@ -1,5 +1,25 @@
 <% if(page.content){ %>
   <%- page.content %>
+	<!-- BEGIN TABS AND TESTIMONIALS -->
+<div class="main">
+  <div class="container">
+    <div class="row mix-block margin-bottom-40">
+    <div class="col-md-4">
+    <h4><b>Recent News</b></h4>
+    <%- recent_posts() %>
+    </div>
+    <div class="col-md-4">
+    <h4><b>Upcoming Events</b></h4>
+    No Approaching Event
+    </div>
+    <div class="col-md-4">
+    <h4><b>Publications</b></h4>
+    Publication List.
+    </div>
+</div>
+      </div>
+      </div>
+
 <% } else { %>
   <div class="container">
     <ul class="breadcrumb">
