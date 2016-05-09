@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to CNLAB 
 date: 2016-05-08
-thumbnail: ..\metronic\assets\pages\img\home-picture\img2.jpg
+thumbnail: metronic\assets\pages\img\home-picture\img2.jpg
 category: News
 tags: 
 - CNLAB

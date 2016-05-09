@@ -2,7 +2,7 @@
 layout: post
 title: 2016 Summer Event
 date: 2016-05-08
-thumbnail: ..\metronic\assets\pages\img\home-picture\img1.jpg
+thumbnail: metronic\assets\pages\img\home-picture\img1.jpg
 category: Events
 tags: 
 - CNLAB
