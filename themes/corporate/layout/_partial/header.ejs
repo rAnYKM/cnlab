@@ -23,9 +23,10 @@
 	  <span class="sep"></span>
 	  <i class="fa fa-search search-btn"></i>
 	  <div class="search-box">
-	    <form action="#">
+	    <form method="get" action="http://www.google.com/search">
 	      <div class="input-group">
-		<input type="text" placeholder="Search" class="form-control st-default-search-input">
+		<input type="text" name="q" placeholder="Search" class="form-control st-default-search-input" >
+		<input type="hidden" name="sitesearch" value="uvic.ca" />
 		<span class="input-group-btn">
 		  <button class="btn btn-primary" type="submit">Search</button>
 		</span>

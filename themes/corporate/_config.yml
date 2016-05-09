@@ -2,9 +2,9 @@
 menu:
   Home: /
   News: /archives/
-  Research: /projects/ # can set archive-dir in root config to custom value
-  People: /about/
-  Events: /event/
+  Research: /research/ # can set archive-dir in root config to custom value
+  People: /people/
+  Events: /categories/Events/
   Publications: /public/
    
 rss:

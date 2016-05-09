@@ -1,3 +1,5 @@
+
+
 a {
   color: #67bd3c;
 }
@@ -86,11 +88,11 @@ a:hover {
 .header-navigation .header-navigation-content .header-navigation-col li > a:hover,
 .header-navigation .header-navigation-content .header-navigation-col li.active > a {
   background: #67bd3c;
-  color: #fff;
+  color: #eee;
 }
 .header-navigation .dropdown-menu .header-navigation-content-ext li > a:hover,
 .header-navigation .dropdown-menu .header-navigation-content-ext li.active > a {
-  background: #fff;
+  background: #eee;
   color: #67bd3c;
 }
 .header-navigation .search-box:after { 
@@ -141,30 +143,30 @@ a:hover {
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background: #67bd3c;
-    color: #fff;
+    color: #eee;
 }
 .list-view-sorting a {
-  background: #fff;
+  background: #eee;
   color: #67bd3c;
 }
 
 
 
 ::-moz-selection {
-  color: #fff;
+  color: #eee;
   background: #67bd3c;
 }
 ::selection {
-  color: #fff;
+  color: #eee;
   background: #67bd3c;
 }
 .steps-block ::-moz-selection {
   color: #67bd3c;
-  background: #fff;
+  background: #eee;
 }
 .steps-block ::selection {
   color: #67bd3c;
-  background: #fff;
+  background: #eee;
 }
 
 
@@ -208,7 +210,7 @@ a:hover {
   border-color: #67bd3c;
 }
 .blog-tags li a:hover {
-  color: #fff;
+  color: #eee;
   background: #67bd3c;
 }
 .blog-tags li a:hover:after { 
@@ -257,7 +259,7 @@ a:hover {
   color: #67bd3c;
 }
 .product-item .add2cart:hover {
-  color: #fff !important;
+  color: #eee !important;
   background: #67bd3c !important;
   border-color: #67bd3c;
 }
@@ -357,7 +359,7 @@ a:hover {
 
 .mix-filter li:hover, .mix-filter li.active {
     background: #85CA63;
-    color: #fff;
+    color: #eee;
 }
 .mix-grid .mix .mix-details {
   background: #85CA63;
