@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://web.uvic.ca/~jychen21
-root: /~jychen21/
+url: localhost:4000
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
