@@ -5,7 +5,7 @@ menu:
   Research: /research/ # can set archive-dir in root config to custom value
   People: /people/
   Events: /categories/Events/
-  Publications: /public/
+  Publications: /publication/
    
 rss:
 
