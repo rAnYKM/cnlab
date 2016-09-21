@@ -1,63 +1,44 @@
 ---
 layout: post
 title: Welcome to CNLAB 
-date: 2016-05-08
-thumbnail: metronic\assets\pages\img\home-picture\img2.jpg
+date: 2016-09-05
+thumbnail: 
 category: News
 tags: 
 - CNLAB
 lede: "Welcome to CNLAB. This is the first post in the new lab website"
 ---
 
-Top tech talent knows that industry recruiters often bring a stack of
-pre-negotiated offers to university infosessions, so that they can snag
-programmers and UX designers who really stand out.  Instead of spending valuable
-time validating a particularly promising candidate's skillset through a
-protracted series of interviews, it's often more efficient to simply __give the
-individual an offer right then and there__.  Internal studies at Google have shown
-that experienced recruiters can usually tell if a programmer has 'what it takes'
-just from how they act at infosessions: the insightful questions they ask, the
-stickers on their laptop, and how they comport themselves in general.
+This is the first post in the new lab website. If you have any problem, please feel free to contact **Jiayi Chen** (jychen21 at uvic.ca).
 
-<!-- more -->
-
-Top tech talent knows that industry recruiters often bring a stack of
-pre-negotiated offers to university infosessions, so that they can snag
-programmers and UX designers who really stand out.  Instead of spending valuable
-time validating a particularly promising candidate's skillset through a
-protracted series of interviews, it's often more efficient to simply __give the
-individual an offer right then and there__.  Internal studies at Google have shown
-that experienced recruiters can usually tell if a programmer has 'what it takes'
-just from how they act at infosessions: the insightful questions they ask, the
-stickers on their laptop, and how they comport themselves in general.
+The followings are Markdown test scripts.
 
 
-Here are some of tips for optimizing your infosession performance:
 
-- Ask questions to get a feel for the company's culture.  For example, I always
-  start off by asking "do you have a mandatory drug test?".
+# Heading 1
+## Heading 2
+### Heading 3
 
-- Make sure that the recruiters know you're passionate about the company by
-  crying.  
+```python
+    >>> url = ['www', 'cn', 'ece', 'uvic', 'ca']
+    >>> print '.'.join(url)
+    www.cn.ece.uvic.ca
+```
 
-- Don't be that awkward guy who goes up for more pizza while the presenter is
-  providing valuable information about the company's agile development cycle.
-  Instead, demonstrate your ability to amortize I/O costs via bulk loading:
-  bring a whole box of pizza back to your seat.  Protip: "free swag" t-shirts
-  make great face rags, so grab a handful.
+| No. | Name |
+|---|----|
+| 0 | Jason |
+| 1 | Peter |
+| 2 | Matrix |
 
-- Stay focused by minimizing distractions.  I typically wear my Bose
-  QuietComfort noise cancelling headphones during the presentation.  This way I
-  retain more information from the PowerPoint, which really impresses the
-  recruiters during the networking session.  Follow me on Spotify to check out
-  my special "Let's Do This Infosession" playlist.
+Table in Markdown is not elegant.
 
-- Getting invited to the 'after-infosession' is critical.  During the networking
-  session, ask the recruiters what hotel they're staying at, and make sure that
-they know that you 'know a guy'.  Without fail, someone will slip a wax-sealed
-envelope under your door at midnight, the coveted invitation to an another, more
-exclusive networking event.  
+- List 1
+- List 2
+- List 3
 
-If you follow these simple tips and brush up on your data structures, you'll
-soon be literally *drowning* in offers, like everyone else.  If these tips don't
-work out for you, you probably need to get your MEng.
+1. Ordered List 1
+2. Ordered List 2
+3. Ordered List 3
+
+Test End
